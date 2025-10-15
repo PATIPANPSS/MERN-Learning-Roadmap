@@ -1,0 +1,8 @@
+# Node modules (สำหรับ Node.js และ React)
+node_modules/
+
+# ไฟล์ชั่วคราว/Log
+*.log
+
+# ไฟล์การตั้งค่า IDE (ถ้าใช้ VS Code)
+*.DS_Store
