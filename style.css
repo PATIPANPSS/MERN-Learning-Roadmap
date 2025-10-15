@@ -48,6 +48,10 @@ nav ul {
     border-radius: 5px;
 }
 
+.detail-btn {
+    display: block;
+}
+
 @media (max-width: 600px) {
     header {
         flex-direction: column;
